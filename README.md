@@ -45,10 +45,9 @@ Il file di input segue una serie di comandi per gestire la simulazione:
 
 ## Strutture Dati Utilizzate:
 
-### 1. Albero Rosso-Nero per il Magazzino
+- `Albero Rosso-Nero per il Magazzino`  
+- `Albero Binario di Ricerca (BST) per il Ricettario`  
+- `Liste Dinamiche per la gestione degli Ordini`  
 
-### 2. Albero Binario di Ricerca (BST) per il Ricettario
-
-### 3. Liste Dinamiche per la gestione degli Ordini 
 
 
